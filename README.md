@@ -8,6 +8,8 @@
 This project is a modern Cafe Website UI/UX design built using HTML, CSS, and JavaScript.
 It focuses on creating a visually appealing and user-friendly interface for a coffee shop, highlighting products, ambience, and brand values.
 
+<img width="1894" height="1017" alt="image" src="https://github.com/user-attachments/assets/20581c83-2cb9-4a6a-b7af-77754dd4c210" />
+
 The website showcases elements like coffee menus, ethical sourcing, and a smooth browsing experience for users.
 
 ✨ Features
